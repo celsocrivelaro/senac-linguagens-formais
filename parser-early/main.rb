@@ -1,4 +1,4 @@
-require_relative "earley"
+require_relative "early"
 require_relative "gramatica"
 
 regras = [
