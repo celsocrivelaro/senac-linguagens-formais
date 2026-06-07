@@ -58,7 +58,7 @@ w = fascfascdfasccfbsccdfbsccfbsccd#scscsccscc
 
 Fazer uma máquina de MTU que reconheça uma linguagem que contenha outra MT M + código de entrada.
 
-Usar a máquina [https://replit.com/@celsosenac/mt-ling-recursivamente-enumeraveis](https://replit.com/@celsosenac/mt-ling-recursivamente-enumeraveis#main.rb) como referência.
+Usar a máquina [https://github.com/celsocrivelaro/senac-linguagens-formais/tree/main/maquina-turing-universal ](https://github.com/celsocrivelaro/senac-linguagens-formais/tree/main/maquina-turing-universal ) como referência.
 
 A MTU deve ler como uma máquina de Turing: lê fita e tem uma transição de estado com um movimento de fita para esquerda ou direta. Não será aceito uma codificação que não esteja neste formato.
 
