@@ -64,7 +64,7 @@ A MTU deve ler como uma máquina de Turing: lê fita e tem uma transição de es
 
 Código de Teste:
 
-1) MT que reconhece uma Linguagem Livre de Contexto $a^*b^*$ 
+1) MT que reconhece uma Linguagem Livre de Contexto $a^\*b^\*$ 
 
 2) MT que reconhece uma Linguagem Sensível ao Contexto $a^nb^nc^n$ 
 
