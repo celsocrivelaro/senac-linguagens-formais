@@ -64,11 +64,11 @@ A MTU deve ler como uma máquina de Turing: lê fita e tem uma transição de es
 
 Código de Teste:
 
-1) MT que reconhece uma Linguagem Livre de Contexto $a^\*b^\*$ 
+1) MT que reconhece uma Linguagem Regular $a^\*b^\*$ 
 
-2) MT que reconhece uma Linguagem Sensível ao Contexto $a^nb^nc^n$ 
+2) MT que reconhece uma Linguagem Livre de Contexto $a^nb^n$ 
 
-3) MT que faz multiplicações a x b. Exemplo: 3x2 = 6 ⇒ aaabb ⇒ cccccc
+3) MT que reconhece uma Linguagem Sensível ao Contexto $a^nb^nc^n$ 
 
 ### Slides
 
