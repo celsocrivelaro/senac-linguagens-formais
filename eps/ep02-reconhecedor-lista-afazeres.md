@@ -48,7 +48,7 @@ O trabalho deve ser entregue por meio de **repositório no GitHub** contendo o c
 
 # O que será avaliado:
 
-### Modelagem das Expressões Regulares - Documentação (4.0)
+### Modelagem das Expressões Regulares e Documentação (3.5)
 
 Explique as expressões regulares utilizadas para reconhecer:
 
@@ -62,7 +62,15 @@ Detalhe a escolha dos critérios e os casos cobertos por cada expressão.
 
 A documentação da modelagem deve ser colocada no diretório `/docs` na raíz do projeto.
 
-### Código fonte - Execução (5.0)
+O repositório deve conter também um `README.md` explicando:
+
+- O problema resolvido
+- A modelagem e a teoria envolvida nas escolhas
+- Explicação básica do código e funções
+
+A não entrega da documentação resultará em redução de pontos.
+
+### Código fonte - Execução (6.5)
 
 Deverá ser entregue o repositório no GitHub.
 
@@ -77,16 +85,6 @@ O que será avaliado:
 - Entrada de dados
 - Expressões regulares geradas em Ruby
 - Exibição de dados
-
-### Documentação no repositório (1.0)
-
-O repositório deve conter um `README.md` explicando:
-
-- O problema resolvido
-- A modelagem e a teoria envolvida nas escolhas
-- Explicação básica do código e funções
-
-A não entrega da documentação resultará em redução de pontos.
 
 Este trabalho deve seguir:
 
